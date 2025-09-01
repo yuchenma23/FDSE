@@ -18,7 +18,7 @@ max_Δt = 0.05 # maximum allowable timestep
 duration = 20 # The non-dimensional duration of the simulation
 
 # Set the Reynolds number (Re=Ul/ν)
-Re = 5000
+Re = 10000
 
 # Set the change in the non-dimensional buouancy 
 Δb = 1 
